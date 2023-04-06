@@ -1,0 +1,6 @@
+Cargo.lock
+target
+tests/wasm/*wasm
+secret_key.pem
+public_key.pem
+public_key_hex
